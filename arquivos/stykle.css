@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+    width: 100%;
+    font-size: 2.9vh;
+    text-align: center;
+
+}
+/*
+@media only screen and (max-width: 768px) {
+  h1 {
+    font-size: 24px; /* altere o tamanho da fonte para a visualização em dispositivos móveis */
+  /*  text-align: center; /* centralize o texto para dispositivos móveis */
+/*  }
+}
+*/
